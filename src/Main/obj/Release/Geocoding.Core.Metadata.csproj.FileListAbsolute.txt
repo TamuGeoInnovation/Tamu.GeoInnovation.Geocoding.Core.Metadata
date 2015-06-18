@@ -1,0 +1,8 @@
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.Metadata\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.dll
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.Metadata\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Metadata.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Metadata.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata\build\1.0.0\AnyCPU\debug\Tamu.GeoInnovation.Geocoding.Core.Metadata.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata\build\1.0.0\AnyCPU\debug\Tamu.GeoInnovation.Geocoding.Core.Metadata.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.pdb
