@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geocoding.Core.Metadata.Dev", "Geocoding.Core.Metadata.Dev.csproj", "{061B2DAD-1AEF-45A4-A37A-D07223E418B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geocoding.Core.Metadata.FeatureMatchingResultTypes.Dev", "..\..\..\Geocoding.Core.Metadata.FeatureMatchingResultTypes\src\Main\Geocoding.Core.Metadata.FeatureMatchingResultTypes.Dev.csproj", "{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{061B2DAD-1AEF-45A4-A37A-D07223E418B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061B2DAD-1AEF-45A4-A37A-D07223E418B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061B2DAD-1AEF-45A4-A37A-D07223E418B4}.Debug|x86.ActiveCfg = Debug|x86
+		{061B2DAD-1AEF-45A4-A37A-D07223E418B4}.Debug|x86.Build.0 = Debug|x86
+		{061B2DAD-1AEF-45A4-A37A-D07223E418B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061B2DAD-1AEF-45A4-A37A-D07223E418B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{061B2DAD-1AEF-45A4-A37A-D07223E418B4}.Release|x86.ActiveCfg = Release|x86
+		{061B2DAD-1AEF-45A4-A37A-D07223E418B4}.Release|x86.Build.0 = Release|x86
+		{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}.Debug|x86.ActiveCfg = Debug|x86
+		{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}.Debug|x86.Build.0 = Debug|x86
+		{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}.Release|x86.ActiveCfg = Release|x86
+		{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
