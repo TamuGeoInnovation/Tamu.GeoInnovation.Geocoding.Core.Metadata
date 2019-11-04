@@ -4,7 +4,7 @@ using System.Data;
 namespace USC.GISResearchLab.Geocoding.Core.Metadata.FeatureMatchingResults
 {
 
-    
+
 
     public class FeatureMatchingResultTypeManager
     {
